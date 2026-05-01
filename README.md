@@ -89,3 +89,8 @@ Favorites are stored in local storage, so they persist across sessions without a
 ## Deployment
 
 This project is compatible with Cloudflare Workers (see `wrangler.jsonc`). If you plan to deploy elsewhere, use the standard Vite build output and adjust hosting as needed.
+
+## Acknowledgments
+
+Initial UI scaffolding and rapid prototyping were assisted using Lovable. 
+All prompt design, system logic, feature structuring, and refinements were implemented and customized independently.
